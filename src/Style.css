@@ -2,7 +2,7 @@
     width: 300px;
     height: 400px;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 20px;
     border-radius: 12px;
     background: linear-gradient(180deg, #01aed2 40%, #ff9900);
     padding-bottom: 10px;
@@ -113,7 +113,7 @@ h1 {
 
 @media (max-width: 768px) {
   .container{
-    width: 270px;
+    width: 250px;
     height: 400px;
     margin: auto;
   }
